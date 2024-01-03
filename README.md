@@ -1,1 +1,1 @@
-# Face_Recognition_Attendance_System
+Face Recognition Attendance System is a computer application for automatically identifying or verifying a person from the camera and will mark the name of that person and the time when he/she come to the camera. One of the ways to do this is by comparing selected facial features from the image and a facial database through the OpenCV.
